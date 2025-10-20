@@ -57,3 +57,4 @@ namespace MHB1001
         }
     }
 }
+// https://dload-oktatas.educatio.hu/erettsegi/feladatok_2025tavasz_kozep/k_digkult_25maj_fl.pdf
