@@ -1,9 +1,5 @@
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
 
 namespace MHB1001
 {
@@ -17,44 +13,58 @@ namespace MHB1001
 
             int ossz = 0;
 
-            bool U = akt.Contains("U");
-            bool G = akt.Contains("G");
-            bool F = akt.Contains("F");
-            bool K = akt.Contains("K");
-
-            if (U)
+            foreach (char a in akt)
             {
-                ossz += 1;
+                switch (a)
+                {
+                    case 'U':
+                        ossz += 1;
+                        break;
+                    case 'G':
+                        ossz += 1;
+                        break;
+                    case 'F':
+                        ossz += 2;
+                        break;
+                    case 'K':
+                        ossz += 10;
+                        break;
+                    default:
+                        Console.WriteLine($"Ismeretlen: {a}");
+                        break;
+                }
             }
-            else if (G)
-            {
-                ossz += 1;
-            }
-            else if (F)
-            {
-                ossz += 2;
-            }
-            else if (K)
-            {
-                ossz += 10;
-            }
-
 
             Console.WriteLine("2. feladat");
-
             Console.WriteLine("Az elért távolság: " + ossz);
 
             Console.WriteLine("3. feladat");
+
+            bool U = akt.Contains('U');
+            bool G = akt.Contains('G');
+            bool F = akt.Contains('F');
+            bool K = akt.Contains('K');
 
             if (U && G && F && K)
             {
                 Console.WriteLine("Bravó! Jutalma még 10 km.");
                 ossz += 10;
             }
+            else
+            {
+                Console.WriteLine("Nem jár jutalom.");
+            }
 
             Console.WriteLine("4. feladat");
-            Console.WriteLine("Eredménye: " + ossz + " Gratulálok, kihívás teljesítve!");
+
+            if (ossz > 40)
+            {
+                Console.WriteLine("Eredménye: " + ossz + " km. Gratulálok, kihívás teljesítve!");
+            }
+            else
+            {
+                Console.WriteLine("Eredménye: " + ossz + " km. Legközelebb sikerül!");
+            }
         }
     }
 }
-// https://dload-oktatas.educatio.hu/erettsegi/feladatok_2025tavasz_kozep/k_digkult_25maj_fl.pdf
