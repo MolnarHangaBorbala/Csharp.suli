@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 
 namespace MHB1001
 {
@@ -9,7 +8,7 @@ namespace MHB1001
     {
         static void Main(string[] args)
         {
-            string fileel = @"C:\Users\user\Documents\Molnár Hanga Borbála\C#\Forras\3_Sebesseg\ut.txt";
+            string fileel = @"C:\Users\user\Documents\Molnár Hanga Borbála\C#\Csharp.suli-main\C#\Forras\3_Sebesseg\ut.txt";
 
             List<List<string>> hatarok = new List<List<string>>();
 
@@ -21,13 +20,22 @@ namespace MHB1001
                 while ((sor = bemenet.ReadLine()) != null)
                 {
                     string[] reszek = sor.Trim().Split(' ');
-                    // Az első elemet számra alakítjuk
-                    reszek[0] = int.Parse(reszek[0]).ToString();
+                    reszek[0] = int.Parse(reszek[0]).ToString(); // Első elemet számra alakítjuk
 
-                    // Lista formában adjuk hozzá
                     hatarok.Add(new List<string>(reszek));
                 }
             }
+
+            // Például kiíratjuk a határokat
+            Console.WriteLine("A fájl adatai:");
+            foreach (var lista in hatarok)
+            {
+                Console.WriteLine(string.Join(" ", lista));
+            }
+
+            // Kérjünk be egy gombnyomást, hogy a konzol ne záródjon be azonnal
+            Console.WriteLine("Nyomj meg egy billentyűt a kilépéshez...");
+            Console.ReadKey();
         }
     }
 }
