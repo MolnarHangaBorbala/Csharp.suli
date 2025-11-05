@@ -8,8 +8,6 @@ namespace MHB1001
     {
         static void Main(string[] args)
         {
-            string fileel = @"C:\Users\user\Documents\Molnár Hanga Borbála\C#\Forras\3_Sebesseg\ut.txt";
-
                 List<List<object>> határok = new List<List<object>>();
                 using (var bemenet = new StreamReader(@"C:\Users\user\Documents\Molnár Hanga Borbála\C#\Forras\3_Sebesseg\ut.txt"))
                 {
