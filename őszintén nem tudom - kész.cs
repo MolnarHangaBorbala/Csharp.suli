@@ -33,6 +33,17 @@ namespace MHB1001
                         }
                     }
 
+                                    /*
+                for (int i = 1; i = hatarok.Count; i++) {
+                    if (hatarok[i][1][0] == "V")
+                    {
+                        Console.WriteLine(string.Join(" ", hatarok[i][1]);
+                    }
+                    /-* if i[1][0] == "V":
+                        print(i[1]) *-/
+                }
+                 */
+
                     Console.WriteLine("3. Feladat::");
                     Console.Write("Adja meg a vizsgált szakasz hosszát km-ben! ");
                     double vizsgált = double.Parse(Console.ReadLine());
