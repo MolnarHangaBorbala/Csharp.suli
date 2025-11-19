@@ -1,0 +1,361 @@
+2020;1;ma;Szobonya ErzsĂŠbet: Sapho 1.;20000
+2020;1;ma;BĂśdĹcs Tibor: Meg se kĂ­nĂĄltak;20000
+2020;1;ma;Berg Judit: Rumini TĂźkĂśr-szigeten;15000
+2020;1;ma;SzabĂł Zsolt: VidĂĄm farm;12000
+2020;1;ma;TĂĄbori Andrea: Gesztesi - Egy ĂŠlet ezer szĂ­ne;12000
+2020;1;ma;Benedek Elek: Benedek Elek legszebb mesekĂśnyve;10000
+2020;1;ma;Frei TamĂĄs: 2015 a kĂĄosz ĂŠve ĂŠs a magyar elit hĂĄborĂşja;10000
+2020;1;ma;SzabĂł Zsolt: Unikornisok nagy mesekĂśnyve;10000
+2020;1;kf;Henaq, Victoria Eugenia: Mrs. Escobar;15000
+2020;1;kf;Francis, Suzanne: JĂŠgvarĂĄzs 2.;15000
+2020;1;kf;Paulsen, RĂźdiger: HĂşsvĂŠti nyuszi ĂŠs barĂĄtai;15000
+2020;1;kf;Atwood, Margaret: Testamentumok;10000
+2020;1;kf;Brallier, MaxâHolgate, Douglas: Az utolsĂł srĂĄcok a fĂśldĂśn;10000
+2020;1;kf;Kinney, Jeff: Egy ropi naplĂłjaâA rideg valĂł;10000
+2020;1;kf;Kinney, Jeff: Egy ropi naplĂłjaâAz utolsĂł szalmaszĂĄl;10000
+2020;1;kf;Kinney, Jeff: Egy ropi naplĂłjaâNĂŠgy fal kĂśzĂśtt;10000
+2020;1;kf;Russell, Rachel Renee: Egy Zizi naplĂłja 1.âMesĂŠk nem valami mesĂŠs ĂŠletemrĹl;10000
+2020;1;kf;Smith, Wilbur: KirĂĄlyok kirĂĄlya;10000
+2020;1;kf;Steel, Danielle: Nemes harc;10000
+2020;2;ma;SzĂĄraz MiklĂłs GyĂśrgy: FĂĄjĂł Trianon;120000
+2020;2;ma;Leiner Laura: A Szent Johanna Gimi. Kalauz 2.0;20000
+2020;2;ma;Szobonya ErzsĂŠbet: Sapho. 2. r.;12000
+2020;2;ma;EmlĂŠkezĹ MagyarorszĂĄg, 1. (GyurgyĂĄk JĂĄnos szerk.);10000
+2020;2;ma;EmlĂŠkezĹ MagyarorszĂĄg, 2. (GyurgyĂĄk JĂĄnos szerk.);10000
+2020;2;ma;VĂŠrzĹ MagyarorszĂĄg. Magyar Ă­rĂłk MagyarorszĂĄg terĂźletĂŠĂŠrt  (KosztolĂĄnyi DezsĹ szerk.);10000
+2020;2;kf;Collins, Suzanne: Ănekesmadarak ĂŠs kĂ­gyĂłk balladĂĄja;10000
+2020;2;kf;Giordano, Paolo: JĂĄrvĂĄny idejĂŠn;10000
+2020;3;ma;GĂłlya viszi a fiĂĄt - mondĂłkĂĄskĂśnyv (vĂĄl.: OrosnĂŠ Galaczi Edit, Bacskai Csaba, DĂĄvid IldikĂł);30000
+2020;3;ma;Gyertek, gyertek gyerekek! - mondĂłkĂĄskĂśnyv (vĂĄl.:  OrosnĂŠ Galaczi Edit, Bacskai Csaba, DĂĄvid IldikĂł);30000
+2020;3;ma;Lawrence, Leslie L.: Donovan ezredes trĂŠfĂĄja I.;20000
+2020;3;ma;Lawrence, Leslie L.: Donovan ezredes trĂŠfĂĄja II.;18000
+2020;3;ma;Szobonya Erzsebet: A szĂĄrd szikla;15000
+2020;3;ma;R. KelĂŠnyi Angelika: Barcelona, Barcelona;15000
+2020;3;ma;Vadadi Adrienn: Leszel a barĂĄtom?;15000
+2020;3;ma;PĂĄsztohy Panka: Pitypang ĂŠs Lili;10005
+2020;3;ma;Benedek Elek: 100 Benedek Elek mese;10000
+2020;3;ma;May Szilvia: OrszĂĄghĂĄzi tekergĹ;10000
+2020;3;ma;Streicher AndrĂĄs: Itt a nyuszi;10000
+2020;3;ma;TĂłth Csaba TamĂĄs: TĂŠnyek ĂŠs tĂŠvhitek - Ăllati X;10000
+2020;3;kf;King, Stephen: Ăjszakai mĹąszak;25000
+2020;3;kf;King, Stephen: Az IntĂŠzet;12000
+2020;3;kf;Potter, Beatrix: NyĂşl PĂŠter ĂŠs barĂĄtai. Beatrix Potter Ăśsszes mesĂŠje;10000
+2020;3;kf;Kinney, Jeff: Egy ropi naplĂłja-A nagy kiruccanĂĄs;10000
+2020;3;kf;Kinney, Jeff: Egy ropi naplĂłja-PechszĂŠria;10000
+2020;4;ma;Leiner Laura: BĂ­zz bennem - II. trilĂłgia - IskolĂĄk versenye elsĹ kĂśtet;60000
+2020;4;ma;Kepes AndrĂĄs: A bolond hĂźlye ĂŠs az okos depressziĂłs;40000
+2020;4;ma;Karinthy Frigyes: KarĂĄcsonyi tĂĄrsasjĂĄtĂŠk;30000
+2020;4;ma;KosztolĂĄnyi DezsĹ: CsodĂĄt nekem;30000
+2020;4;ma;Szobonya Erzsebet: A vĂŠgzet;20000
+2020;4;ma;DezsĹ AndrĂĄs: Magyar KĂłla;20000
+2020;4;ma;Berg Judit: Rumini;17000
+2020;4;ma;MeseorszĂĄg mindenkiĂŠ (szerk.: Nagy BoldizsĂĄr);15000
+2020;4;ma;Tomor Anita: Veled egy szigeten;12000
+2020;4;ma;3-5-8 perces tĂŠli mesĂŠk, Szimonidesz Hajnalka rajzaival (szerk.: RĂŠt ViktĂłria);12000
+2020;4;ma;BĂśjte Csaba, Csender Levente: BĂśjte Csaba fĂźveskĂśnyve;12000
+2020;4;ma;FĂĄbiĂĄn Janka: Julie KĂśnyvkuckĂłja;12000
+2020;4;ma;BosnyĂĄk ViktĂłria: A sirĂĄly a kirĂĄly?;10000
+2020;4;ma;3 ĂŠves lettem! - Kedvenc mesĂŠink a Pagony szerzĹitĹl (szerk.:GyĹri Hanna);10000
+2020;4;ma;99 magyar nĂŠpmese - Jankovics Marcell rajzaival;10000
+2020;4;ma;KoleszĂĄr MĂĄrta: CigĂĄnymesĂŠk 4. fejtĂśrĹk;10000
+2020;4;ma;Leiner Laura: Maradj velem;10000
+2020;4;ma;RĂşzsa Magdolna, OrdĂłdy Eszter: Angyalkert;10000
+2020;4;ma;SzĂĄntĂł DĂĄniel: Egy pap vallomĂĄsa;10000
+2020;4;kf;Kinney, Jeff: Egy ropi naplĂłja 15. - MĂŠly vĂ­z;30000
+2020;4;kf;Steel, Danielle: Csendes ĂŠj;25000
+2020;4;kf;Steel, Danielle: A kastĂŠly;25000
+2020;4;kf;Steel, Danielle: Pegazus;25000
+2020;4;kf;Follett, Ken: Egy Ăşj korszak hajnala - A katedrĂĄlis elĹzmĂŠnye;20000
+2020;4;kf;Rowling, J. K.: Az Ickabog;17000
+2020;4;kf;Nesbo, Jo: A birodalom;17000
+2020;4;kf;Cook, Robin: Genezis;15000
+2020;4;kf;Trump, Mary L.: TĂşl sok ĂŠs sosem elĂŠg - Avagy hogyan teremtette meg a csalĂĄdom a vilĂĄg legveszĂŠlyesebb emberĂŠt;10000
+2020;4;kf;Martin, George R. R.: TrĂłnok harca;10000
+2020;4;kf;Moyes, Jojo: ĂradĂł fĂŠny;10000
+2021;1;ma;BĂśjte Csaba: BĂśjte Csaba fĂźveskĂśnyve - ĂrĂśmhĂśz segĂ­tĹ gondolatok;20000
+2021;1;ma;Szerb Antal: Utas ĂŠs holdvilĂĄg;20000
+2021;1;ma;Bartos Erika: BogyĂł ĂŠs BabĂłca. HĂłnapok mesĂŠi;10000
+2021;1;ma;DragomĂĄn GyĂśrgy: FĹzĹskĂśnyv;10000
+2021;1;ma;DragomĂĄn GyĂśrgy: FĹzĹskĂśnyv (utĂĄnnyomĂĄs);10000
+2021;1;ma;Ablak - ZsirĂĄf (MĂŠrei Ferenc - V. BinĂŠt Ăgnes);10000
+2021;1;kf;LĂĄng ĂŠs a SzuperverdĂĄk - A dicsĹsĂŠg LĂĄngja;27000
+2021;1;kf;Mancs ĹrjĂĄrat: A Kaland-ĂśbĂśl kalĂłzai;27000
+2021;1;kf;Mancs ĹrjĂĄrat: Dinoszauruszok nyomĂĄban;27000
+2021;1;kf;Mancs ĹrjĂĄrat: KosĂĄrlabda sztĂĄrok;27000
+2021;1;kf;Mancs ĹrjĂĄrat: LĂŠgimentĂŠsre fel!;27000
+2021;1;kf;Mancs ĹrjĂĄrat: SzuperhĹs kutyierĹ;27000
+2021;1;kf;Steel, Danielle: Egy tĂśkĂŠletes ĂŠlet;24950
+2021;1;kf;Lipinska, Blanka: 365 nap;20000
+2021;1;kf;Mancs ĹrjĂĄrat: A kutyik megmentik a nyuszikat;13000
+2021;1;kf;Peppa malac - Peppa hĂşsvĂŠti tojĂĄsvadĂĄszata;13000
+2021;1;kf;Paz, Veronica: DĂłra hĂşsvĂŠti nyuszis kalandja;13000
+2021;1;kf;Kinney, Jeff: Egy ropi naplĂłja-LĂŠpjĂźnk le!;10000
+2021;1;kf;Kinney, Jeff: Egy ropi naplĂłja-RĂŠgi szĂŠp idĹk;10000
+2021;1;kf;Obertone, Laurent: Gerilla BarbĂĄrok ideje;10000
+2021;1;kf;Smith, Keri: NyĂ­rd ki ezt a kĂśnyvet;10000
+2021;1;kf;Smith, Wilbur: SzellemtĹąz;10000
+2021;1;kf;Tapia, Ivan â Linde, Montse: A nagy pĂŠnzrablĂĄs;10000
+2021;2;ma;Leiner Laura: Higgy nekem;40000
+2021;2;ma;GĂĄrdonyi GĂŠza: Ida regĂŠnye;25000
+2021;2;ma;Szobonya Erzsebet: A kezdet;20000
+2021;2;ma;Bartos Erika: BogyĂł ĂŠs BabĂłca. HĂłnapok mesĂŠi;20000
+2021;2;ma;Eger,Edith Eva: A dĂśntĂŠs;15000
+2021;2;ma;LĹrincz L. LĂĄszlĂł: FelhĹharcosok, 1.;15000
+2021;2;ma;LĹrincz L. LĂĄszlĂł: FelhĹharcosok, 2.;15000
+2021;2;ma;Szobonya Erzsebet: Jesus Herrera;14000
+2021;2;ma;Kepes AndrĂĄs: A boldog hĂźlye ĂŠs az okos depressziĂłs;12000
+2021;2;ma;FĂĄbiĂĄn Janka: Cholera-naplĂł;12000
+2021;2;ma;Bartos Erika: BogyĂł ĂŠs BabĂłca az ĂłvodĂĄban;11130
+2021;2;ma;DĂĄniel AndrĂĄs: A kuflik ĂŠs a furcsa ĂĄrnyĂŠk;10000
+2021;2;ma;MĂŠszĂśly MiklĂłs: Nem felelt meg neki;10000
+2021;2;ma;Varga Katalin: GĹgĂśs GĂşnĂĄr Gedeon;10000
+2021;2;ma;Ablak - ZsirĂĄf (MĂŠrei Ferenc - V. BinĂŠt Ăgnes);10000
+2021;2;ma;Bartos Erika: BogyĂł ĂŠs BabĂłca. Ăvszakos kĂśnyv;10000
+2021;2;kf;Steel,Danielle: A tĂŠkozlĂł fiĂş;24950
+2021;2;kf;King,Stephen: MinĂŠl vĂŠresebb;20000
+2021;2;kf;Rowling,J. K.: Harry Potter ĂŠs a Titkok KamrĂĄja, MardekĂĄr (jubileumi kiadĂĄs);18000
+2021;2;kf;Rowling,J. K.: Harry Potter ĂŠs a Titkok KamrĂĄja, GriffendĂŠl (jubileumi kiadĂĄs);18000
+2021;2;kf;Coelho,Paulo: Az Ă­jĂĄsz;10000
+2021;2;kf;Peterson, Jordan B.: TĂşl a renden - Ăjabb 12 szabĂĄly az ĂŠlethez;10000
+2021;2;kf;King,Stephen: Carrie;10000
+2021;2;kf;Smith,Wilbur â Addison,Corban: A hollĂł szava;10000
+2021;2;kf;Miler,Zdenek â Miler,KateĹina â DoskoÄilovĂĄ,Hana: A kisvakond ĂŠs a tĂŠl;10000
+2021;2;kf;Miler,Zdenek â Miler,KateĹina â DoskoÄilovĂĄ,Hana: A kisvakond ĂŠs a tavasz;10000
+2021;2;kf;Miler,Zdenek â Miler,KateĹina â DoskoÄilovĂĄ,Hana: A kisvakond ĂŠs a nyĂĄr;10000
+2021;2;kf;Miler,Zdenek â KateĹina Miler â Michal Cernik: Egy hĂŠt a kisvakonddal;10000
+2021;2;kf;Steel,Danielle: ĂldĂĄs ĂĄlruhĂĄban;10000
+2021;2;kf;Miler,Zdenek: Nagy csĂşszkĂĄlĂĄs a kisvakonddal;10000
+2021;2;kf;Miler,Zdenek: KukucskĂĄlĂĄs a kisvakonddal;10000
+2021;2;kf;Kinney,Jeff: Egy ropi naplĂłja;10000
+2021;2;kf;Kinney,Jeff: Egy ropi naplĂłja-Rodrick a kirĂĄly;10000
+2021;2;kf;Kinney,Jeff: Egy ropi naplĂłja-dupla para;10000
+2021;3;ma;HernĂĄdy Zsolt: Kajla 7hatĂĄrban;50000
+2021;3;ma;Bartos Erika: BogyĂł ĂŠs BabĂłca - csengettyĹąk;15000
+2021;3;ma;Bartos Erika: BrĂşnĂł Budapesten - Budapest kĂśrnyĂŠke;15000
+2021;3;ma;Szobonya Erzsebet: LĂŠgy(ott) Isztambulban;14000
+2021;3;ma;Martens, Sheila (JĂĄnĂłszky BeĂĄta) : Aranykalitka;12000
+2021;3;ma;Martens, Sheila (JĂĄnĂłszky BeĂĄta): Nathifa;12000
+2021;3;ma;Meyerin, Jud (Megyeri Judt): A mĂşlt bĹąnei;12000
+2021;3;ma;Scott, Julie (Nemes Judit): Az ezerkettedik ĂŠjszaka;12000
+2021;3;ma;Scott, Julie (Nemes Judit): Helga tĂśrtĂŠnete;12000
+2021;3;ma;Swann, Aneka (Nemes IstvĂĄn): LuxushajĂł;12000
+2021;3;kf;Mancs ĹrjĂĄrat - A film - MesekĂśnyv a mozifilm alapjĂĄn;19000
+2021;3;kf;Nesbo, Jo: A fĂŠltĂŠkenysĂŠg-szakĂŠrtĹ;15000
+2021;3;kf;King, Stephen: Lisey tĂśrtĂŠnet;15000
+2021;3;kf;Rowling, J. K.: Harry Potter ĂŠs a bĂślcsek kĂśve;13000
+2021;3;kf;100 EzĂłpusz mese [ĂĄtd. LĂśvei MĂĄria ĂŠs Vajda RĂŠka];10000
+2021;3;kf;Escobar, Roberto Sendoya: Escobar fia: az elsĹszĂźlĂśtt;10000
+2021;3;kf;King, Stephen: Az Ă­rĂĄsrĂłl;10000
+2021;3;kf;Kinney, Jeff: Egy ropi naplĂłja-a harmadik kerĂŠk;10000
+2021;3;kf;Moyes, Jojo: Az utolsĂł szerelmes levĂŠl;10000
+2021;4;ma;Babits MihĂĄly: A gĂłlyakalifa;30000
+2021;4;ma;NĂĄray TamĂĄs: Volt egyszer egy varrodĂĄm;30000
+2021;4;ma;Szobonya Erzsebet: Az Arab ĂśrĂśksĂŠge;25000
+2021;4;ma;DezsĹ AndrĂĄs: FedĹsztori: kĂŠmek ĂŠs titkos jĂĄtszmĂĄk MagyarorszĂĄgon;25000
+2021;4;ma;KĹhalmi ZoltĂĄn: Az utolsĂł 450 ĂŠv;25000
+2021;4;ma;Bartos Erika: MesĂŠk a pĂśttyĂśs hĂĄzbĂłl;20000
+2021;4;ma;Eger, Edith Eva: A dĂśntĂŠs;15000
+2021;4;ma;Ugron Zsolna: Nincs egy fĂŠrfi - ĂrĂĄsok ĂŠs firkĂĄk;15000
+2021;4;ma;Vrtko, Vujity: Aloha;15000
+2021;4;ma;BosnyĂĄk ViktĂłria: A sirĂĄly a kirĂĄly?;12000
+2021;4;ma;MĂźller PĂŠter: AnyĂĄm titkos kĂśnyve;12000
+2021;4;ma;100 ĂĄllatmese: szĂłrakoztatĂł ĂŠs tanulsĂĄgos tĂśrtĂŠnetek kicsiknek ĂŠs nagyoknak;10000
+2021;4;ma;Alex suli;10000
+2021;4;ma;BĂĄnyainĂŠ Nagy Judit: Nem akarok beleszĂłlni;10000
+2021;4;ma;Bartos Erika: MesĂŠk a pĂśttyĂśs hĂĄzbĂłl;10000
+2021;4;ma;KarĂĄdy Anna: A fĂźredi fĂśldesĂşr;10000
+2021;4;ma;PĂĄsztohy Panka: Pitypang jĂĄtszik;10000
+2021;4;kf;King, Stephen: Billy Summers;20000
+2021;4;kf;Hawkins, Paula: Lassan izzĂł tĹąz;15000
+2021;4;kf;Lipinska, Blanka: 365 nap 2.;13000
+2021;4;kf;Andersen, Hans Christian: A kis gyufaĂĄrus lĂĄny;10000
+2021;4;kf;Osman, Richard: A fĂŠrfi, aki kĂŠtszer halt meg;10000
+2021;4;kf;Potter, Beatrix: NyĂşl PĂŠter adventi kalendĂĄriuma;10000
+2021;4;kf;Smith, Wilbur: A hĂĄborĂş ĂśrĂśksĂŠge;10000
+2021;4;kf;Steel, Danielle: GyerekjĂĄtĂŠk;10000
+2022;1;ma;BĂśdĹcs Tibor: Mulat a manĂŠzs;60000
+2022;1;ma;Papp GergĹ, Kajdi Csaba: A nagy Cyla sztori;30000
+2022;1;ma;KrĂşdy Gyula: SzindbĂĄd, az ĂĄlmok hajĂłsa;30000
+2022;1;ma;BosnyĂĄk ViktĂłria: A sirĂĄly a kirĂĄly?;20000
+2022;1;ma;FĂĄbiĂĄn Janka: Az Anna-bĂĄl szerelmesei;20000
+2022;1;ma;NĂĄray TamĂĄs: Volt egyszer egy varrodĂĄm;19000
+2022;1;ma;Berg Judit: Rumini;18000
+2022;1;ma;Jakupcsek Gabriella: Alul semmi?;15000
+2022;1;ma;Lawrence, Leslie L.: A jakfarkas zĂĄszlĂł;15000
+2022;1;ma;MarĂŠk Veronika: Boribon karĂĄcsonya;15000
+2022;1;ma;BĂĄn MĂłr: Hunyadi: a fĂśrgeteg hĂ­rnĂśke;14200
+2022;1;ma;Tomor Anita: ImĂĄdlak Los Angeles;12000
+2022;1;ma;Green, Anne L.: ToszkĂĄn rejtĂŠly;10000
+2022;1;ma;BoldizsĂĄr IldikĂł: AmĂĄlia ĂĄlmai;10000
+2022;1;ma;BrĂłdy JĂĄnos: SajĂĄt hangon;10000
+2022;1;ma;Eger, Edith Eva: A dĂśntĂŠs;10000
+2022;1;ma;FejĹs Ăva: AthĂŠn, vĂŠgĂĄllomĂĄs;10000
+2022;1;ma;Kepes AndrĂĄs: A boldog hĂźlye ĂŠs az okos depressziĂłs;10000
+2022;1;ma;Leiner Laura: Ăllj mellĂŠm;10000
+2022;1;ma;Varga Katalin: GĹgĂśs GĂşnĂĄr Gedeon;10000
+2022;1;kf;JĂĄkĂłb ĂŠs Ăzsau (ill. Kort, Kees de ill.);31000
+2022;1;kf;Kinney, Jeff: Egy ropi naplĂłja: a nagy dobĂĄs;30000
+2022;1;kf;Escobar, Juan Pablo: Mr. Escobar - ApĂĄm titkai;30000
+2022;1;kf;Rossmann, Dirk: A polip kilencedik karja: klĂ­makatasztrĂłfa vagy vilĂĄgkormĂĄny;25000
+2022;1;kf;Lipinska, Blanka: MĂŠg 365 nap;20000
+2022;1;kf;Nesbo, Jo: A patkĂĄnysziget;15000
+2022;1;kf;HĂĄzi kedvenceink (szerk. Brezvai Edit);13029
+2022;1;kf;Russell, Rachel RenĂŠe: Zizi naplĂłja: turnĂŠ;10000
+2022;1;kf;Kinney, Jeff: Rowley Jefferson Bitang Para rĂŠmtĂśrtĂŠneteti;10000
+2022;1;kf;Steel, Danielle: KĂŠm;10000
+2022;1;kf;Kinney, Jeff: Egy ropi naplĂłja- Romhalmaz;10000
+2022;2;ma;Szobonya Erzsebet: Az Arab kirĂĄlysĂĄga;25000
+2022;2;ma;NĂĄray TamĂĄs: AnyĂĄm szerint;25000
+2022;2;ma;Bartos Erika: BogyĂł ĂŠs BabĂłca - MesĂŠk a pĂśttyĂśs hĂĄzbĂłl;21000
+2022;2;ma;GrecsĂł KrisztiĂĄn: Valami nĂŠpi;20000
+2022;2;ma;Bartos Erika: Balaton-felvidĂŠk - BrĂşnĂł a Balatonon;15000
+2022;2;ma;Leslie L. Lawrence: Szemiramisz elefĂĄntjai;15000
+2022;2;ma;FĂĄbiĂĄn Janka: ĂrvĂ­zi naplĂł;12000
+2022;2;ma;Green, Anne L. (LĂ­bor ErzsĂŠbet): EgyszerĹąen bonyolult;12000
+2022;2;ma;Jankovics Andrea: Ăvodai emlĂŠkkĂśnyvem;10000
+2022;2;ma;Ablak - ZsirĂĄf (MĂŠrei Ferenc - V. BinĂŠt Ăgnes);10000
+2022;2;ma;NĂĄdas PĂŠter: RĂŠmtĂśrtĂŠnetek;10000
+2022;2;ma;PetĹfi SĂĄndor Ăśsszes versei;10000
+2022;2;kf;King, Stephen: KĂŠsĹbb;20000
+2022;2;kf;King, Stephen: TĹązgyĂşjtĂł;19000
+2022;2;kf;Kinney, Jeff: Egy ropi naplĂłja - Az utolsĂł szalmaszĂĄl;15000
+2022;2;kf;Kinney, Jeff: Egy ropi naplĂłja - HĂłhĂĄborĂş;10000
+2022;2;kf;Owens, Delia: Ahol a folyami rĂĄkok ĂŠnekelnek;10000
+2022;2;kf;Smith, Wilbur - Chadbourn, Mark: Az Ăşj kirĂĄlysĂĄg;10000
+2022;2;kf;Steel, Danielle: ErkĂślcsi irĂĄnytĹą;10000
+2022;2;kf;Steel, Danielle: SzĂĄmjĂĄtĂŠk;10000
+2022;3;ma;Deres KornĂŠlia: Emma ĂŠs az elefĂĄnt;50000
+2022;3;ma;MĂĄn-VĂĄrhegyi RĂŠka: KĂłkusz Franci, a fodrĂĄsz titkosĂźgynĂśk 1.;50000
+2022;3;ma;MĂĄn-VĂĄrhegyi RĂŠka: KĂłkusz Franci, a fodrĂĄsz titkosĂźgynĂśk 2.;50000
+2022;3;ma;Sepsi LĂĄszlĂł: Gogol, a szemĂŠtmĂĄgus;50000
+2022;3;ma;GĂśtz Eszter: Kajla a mĂşzeumok nyomĂĄban;25000
+2022;3;ma;Bartos Erika: BogyĂł ĂŠs BabĂłca - HĂłnapok mesĂŠi;18000
+2022;3;ma;KarĂĄdy Anna: A fĂźredi gyermek;15000
+2022;3;ma;Bartos Erika: BogyĂł ĂŠs BabĂłca - CsengettyĹąk;12000
+2022;3;ma;Tomor Anita: Szeretlek Hawaii!;10500
+2022;3;ma;100 Grimm-mese;10000
+2022;3;ma;Nemes Nagy Ăgnes: SzilĂĄnkos fĂŠnyjelek;10000
+2022;3;kf;Owens, Delia: Ahol a folyami rĂĄkok ĂŠnekelnek;20000
+2022;3;kf;Steel, Danielle: Becses ajĂĄndĂŠkok;15000
+2022;3;kf;Steel, Danielle: Country;15000
+2022;3;kf;Eger, Edith Eva: A dĂśntĂŠs;10000
+2022;3;kf;Hoover, Colleen: VelĂźnk vĂŠget ĂŠr;10000
+2022;3;kf;Hoover, Colleen: Ugly Love - CsĂşf szerelem;10000
+2022;4;ma;Bartos Erika: BrĂşnĂł a Balatonon - DĂŠli part;25000
+2022;4;ma;FĂĄbiĂĄn Janka: A szabadsĂĄg szerelmesei;23000
+2022;4;ma;BosnyĂĄk ViktĂłria: A sirĂĄly a kirĂĄly?;20000
+2022;4;ma;Szobonya Erzsebet: ĂlszemĂŠrem;20000
+2022;4;ma;Fable, Vavyan (MolnĂĄr Ăva): Az ĂŠlet Ăłcska ĂśrĂśmei;20000
+2022;4;ma;Bartos Erika: BrĂşnĂł a Balatonon;15000
+2022;4;ma;Lawrence, Leslie L.: Bolondok kolostora;15000
+2022;4;ma;Nyerges Attila: Egy ismerĹs arc;15000
+2022;4;ma;Berg Judit: Rumini ZĂşzmaragyarmaton;13350
+2022;4;ma;MarĂŠk Veronika: Boribon karĂĄcsonya;13160
+2022;4;ma;Berg Judit - AgĂłcs Ărisz: Maszat karĂĄcsonya;12000
+2022;4;ma;Anne L. Green (Libor ErzsĂŠbet): KeserĹąen ĂŠdes;10000
+2022;4;ma;Berg Judit: Rumini ĂŠs a lĂĄtĂłĂźveg;10000
+2022;4;ma;CsukĂĄs IstvĂĄn: A tĂŠli tĂźcsĂśk mesĂŠi;10000
+2022;4;ma;Edith Eva Eger: A dĂśntĂŠs;10000
+2022;4;ma;LaĂĄr AndrĂĄs: LaĂĄramlĂĄs;10000
+2022;4;ma;Lakatos Levente: TĂśnkreteszlek;10000
+2022;4;ma;Majzik Ilona: SĂźndĂśrgĹ;10000
+2022;4;ma;NĂĄdas PĂŠter: Berlini szĂźrke;10000
+2022;4;ma;Simon Ăva: Furfangos mesĂŠk az ĂĄllatokrĂłl;10000
+2022;4;kf;Hoffmann, E.T.A.: DiĂłtĂśrĹ ĂŠs egĂŠrkirĂĄly;40020
+2022;4;kf;Kinney, Jeff: Egy ropi naplĂłja 17. - Kiborul a bili;30000
+2022;4;kf;Rossmann, Dirk - Hoppe, Ralf: A polip haragja;16000
+2022;4;kf;Kinney, Jeff:  Egy ropi naplĂłja. A rideg valĂł;15000
+2022;4;kf;Kinney, Jeff:  Egy ropi naplĂłja. Rodrick a kirĂĄly;15000
+2022;4;kf;Owens, Delia: Ahol a folyami rĂĄkok ĂŠnekelnek;15000
+2022;4;kf;Potter, Beatrix: NyĂşl PĂŠter vilĂĄga - MesĂŠk minden ĂŠvszakra;15000
+2022;4;kf;Steel, Danielle : RejtĹzkĂśdve;15000
+2022;4;kf;Steel, Danielle: Blue;15000
+2022;4;kf;Szutyejev, Vlagyimir: VidĂĄm mesĂŠk;13350
+2022;4;kf;Hoover, Colleen: All Your Perfects - Minden tĂśkĂŠletesed;12000
+2022;4;kf;Potter, Beatrix: NyĂşl PĂŠter adventi kalendĂĄriuma;10240
+2022;4;kf;Jonasson, Jonas: A prĂłfĂŠta ĂŠs a hĂźlye;10000
+2022;4;kf;Kinney, Jeff:  Egy ropi naplĂłja. A rideg valĂł;10000
+2022;4;kf;Martin, George R. R.: TĹąz ĂŠs vĂŠr;10000
+2022;4;kf;Steel, Danielle: Apa lĂĄnyai;10000
+2022;4;kf;Steel, Danielle: Az eskĂźvĹi ruha;10000
+2023;1;ma;Anne L. Green (Libor ErzsĂŠbet): HazatĂŠrĂŠs ToszkĂĄnĂĄba;10000
+2023;1;ma;Balog-TĂłth Bernadett: Hanga, a hangya ĂŠs barĂĄtai nagy kalandja. A hĂłember;10000
+2023;1;ma;Bartos Erika: BrĂşnĂł Budapesten - Buda tornyai;10000
+2023;1;ma;Bartos Erika: BrĂşnĂł Budapesten - Pest szĂ­ve;10000
+2023;1;ma;Bartos Erika: Duna - BrĂşnĂł Budapesten 5.;10000
+2023;1;ma;Berg Judit: Rumini kincsei;10000
+2023;1;ma;Fekete IstvĂĄn: Vuk;10000
+2023;1;kf;Ferguson, Sarah: A szĂ­v irĂĄnytĹąje;30000
+2023;1;kf;Hoover, Colleen: Minden tĂśkĂŠletesed;15000
+2023;1;kf;Hoover, Colleen: Ugly Love - CsĂşf szerelem;12000
+2023;1;kf;Kinney, Jeff:  Egy ropi naplĂłja. NĂŠgy fal kĂśzĂśtt;12000
+2023;1;kf;Kinney, Jeff: Egy ropi naplĂłja. Kutya egy idĹ;12000
+2023;1;kf;Hoover, Colleen: Verity - SĂśtĂŠt titkok vonzĂĄsĂĄban!;10000
+2023;1;kf;Martin, George R. R. â GarcĂ­a, Jr. Elio M. â Antonsson, Linda: A sĂĄrkĂĄny felemelkedĂŠse;10000
+2023;1;kf;Owens, Delia: Ahol a folyami rĂĄkok ĂŠnekelnek;10000
+2023;2;ma;Leiner Laura: 40 nyĂĄri nap;50000
+2023;2;ma;Bartos Erika: BrĂşnĂł a Balatonon 3. Nyugati karĂŠj;25000
+2023;2;ma;NĂĄray TamĂĄs: Barbara - A vĂŠgzet;25000
+2023;2;ma;MarĂŠk Veronika: Boribon a jĂĄtszĂłtĂŠren;15080
+2023;2;ma;DezsĹ AndrĂĄs: NagyfĹnĂśk;15000
+2023;2;ma;KarĂĄdy Anna: ZserbĂł. A mĂşlt tengerĂŠn;15000
+2023;2;ma;Bartos Erika: A csigahĂĄz kincsei;13805
+2023;2;ma;Szobonya Erzsebet: VĂŠdelem;12000
+2023;2;ma;Bartos Erika: A csigahĂĄz kincsei;10000
+2023;2;ma;Berg Judit: Rumini;10000
+2023;2;ma;Leslie L. Lawrence: Domingos ĂŠs a halĂĄl angyala;10000
+2023;2;ma;Szily LĂĄszlĂł: IdegtartĂĄs;10000
+2023;2;kf;Harry herceg: TartalĂŠk;25000
+2023;2;kf;Hoover, Colleen: VelĂźnk vĂŠget ĂŠr;19000
+2023;2;kf;Kinney, Jeff: MĂŠly vĂ­z;15000
+2023;2;kf;Kinney, Jeff: Egy ropi naplĂłja - A nagy kiruccanĂĄs;12000
+2023;2;kf;Rossmann, Dirk: Tintoretto ĂŠs barĂĄtai;12000
+2023;2;kf;Hoover, Colleen: Elrontott ĂŠletek;10000
+2023;2;kf;Rickman, Alan: ĹrĂźlten, mĂŠlyen - Alan Rickman naplĂłi;10000
+2023;2;kf;Steel,Danielle: Minden, ami csillog;10000
+2023;2;kf;Steel,Danielle: Royal;10000
+2023;3;ma;BĂĄn MĂłr: Hunyadi - Tizenkettedik kĂśnyv - Angyal a kapuk felett;14200
+2023;3;ma;Szobonya Erzsebet: Bajban Dubajban;13000
+2023;3;ma;Bartos Erika: BrĂşnĂł Budapesten;10000
+2023;3;ma;100 magyar nĂŠpmese: A Magyar nĂŠpmesĂŠk sorozat teljes kiadĂĄsa;10000
+2023;3;ma;Berg Judit: Rumini ĂŠs az Ăśt toll;10000
+2023;3;kf;NesbĂ¸, Jo: VĂŠrhold;20000
+2023;3;kf;Perrin, ValĂŠrie: A vasĂĄrnap koldusai;20000
+2023;3;kf;Kinney, Jeff: Egy ropi naplĂłja - PechszĂŠria;12000
+2023;3;kf;Andersen, Hans Christian: 100 Andersen-mese;10000
+2023;3;kf;Steel, Danielle: SzomszĂŠdok;10000
+2023;4;ma;BĂśdĹcs Tibor: PrĂ­mszĂĄmok hĂłesĂŠsben;50000
+2023;4;ma;Kepes AndrĂĄs: KĂŠt macska voltam;40000
+2023;4;ma;NĂĄray TamĂĄs: Barbara - A talĂĄlkozĂĄs;25000
+2023;4;ma;BosnyĂĄk ViktĂłria: A sirĂĄly a kirĂĄly?;20000
+2023;4;ma;KarikĂł Katalin: ĂttĂśrĂŠsek - Ăletem ĂŠs a tudomĂĄny;15000
+2023;4;ma;KarĂĄdy Anna: ZserbĂł 2. - A hĂĄborĂş tengerĂŠn;15000
+2023;4;ma;Leslie L. Lawrence (LĹrincz L. LĂĄszlĂł): Sindzse ĂŠs az ĂĄtkok kĂśnyve;15000
+2023;4;ma;Bartos Erika: A csigahĂĄz kincsei;15000
+2023;4;ma;Csendes Levente: FĂŠnybĹl ĂŠs sĂĄrbĂłl;12000
+2023;4;ma;Bartos Erika: BrĂşnĂł bemutatja Budapestet;10100
+2023;4;ma;BorbĂŠly SzilĂĄrd: Egyre rĂśvidebb szavak;10000
+2023;4;ma;Krusovszky DĂŠnes: Levelek nĂŠlkĂźl;10000
+2023;4;ma;Lakatos Levente: Kiara Lord erkĂślcstelen randevĂşi;10000
+2023;4;ma;NĂĄray TamĂĄs: Barbara - A vĂŠgzet;10000
+2023;4;ma;PĂĄsztohy Panka: Pitypang ĂŠs Lili, Pitypang ĂŠs a diĂłtĂśrĹ;10000
+2023;4;ma;Tomor Anita: Ăjra veled ĂĄlmodom;10000
+2023;4;ma;VarrĂł DĂĄniel: TĂşl a Maszat-hegyen 2.;10000
+2023;4;kf;King, Stephen: TĂźndĂŠrmese;25000
+2023;4;kf;Perrin, ValĂŠrie: TriĂł;25000
+2023;4;kf;Rowling, J.K.: Harry Potter - VarĂĄzsalmanach;20000
+2023;4;kf;Hoover, Colleen: Reminders of him - EmlĂŠkek rĂłla;15000
+2023;4;kf;Yarros, Rebecca: Negyedik szĂĄrny;15000
+2023;4;kf;Berrios, Frank: Mancs ĹrjĂĄrat. A szuperfilm;10000
+2023;4;kf;Black, Holly: How the King of Elfhame Learned to Hate Stories - Hogyan gyĹąlĂślte meg Elfhon kirĂĄlya a tĂśrtĂŠneteket;10000
+2023;4;kf;Christie, Agatha: Ĺszi borzongĂĄs;10000
+2023;4;kf;Grace, Hannah: Icebreaker - JĂŠgtĂśrĹ;10000
+2023;4;kf;Hoover, Colleen: Egy nap talĂĄn;10000
+2023;4;kf;James, E.L.: Missus;10000
+2023;4;kf;King, Stephen: A harcos;10000
+2023;4;kf;King, Stephen: A hĂĄrmak elhĂ­vatĂĄsa;10000
+2023;4;kf;NesbĂ¸, Jo: Ăjszakai HĂĄz;10000
+2023;4;kf;Perrin, ValĂŠrie: MĂĄsodvirĂĄgzĂĄs;10000
+2023;4;kf;Potter, Beatrix: NyĂşl PĂŠter, karĂĄcsonyi csillag;10000
+2023;4;kf;Score, Lucy: Amin sosem leszĂźnk tĂşl;10000
+2023;4;kf;Stuart, Anna: Az auschwitzi bĂĄba;10000
