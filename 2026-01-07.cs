@@ -85,3 +85,6 @@ else
 {
     Console.WriteLine("Nem sikerült a kihívás.");
 }
+
+https://www.decathlon.hu/p/mp/hms/pro-hantli-sulyzo-kettlebell-keszlet-pro-hms-sgn/_/R-p-ee27ce40-0780-4a92-b1f2-144fcc04b106?mc=ee27ce40-0780-4a92-b1f2-144fcc04b106_c1c14
+https://www.decathlon.hu/p/mp/hms/kompozit-sulyzok-rud-sulyzo-hms-sgc/_/R-p-baefa38e-4e51-4228-a3a6-348df2eef7ef?mc=baefa38e-4e51-4228-a3a6-348df2eef7ef_c1c14
