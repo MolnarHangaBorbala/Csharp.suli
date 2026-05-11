@@ -30,6 +30,12 @@ namespace MHB2
             emberek.Add(new Ember("Anna", 20));
             emberek.Add(new Ember("Béla", 25));
             emberek.Add(new Ember("Csaba", 30));
+            emberek.Add(new Ember("Delikvens", 89));
+            emberek.Add(new Ember("Elemér", 76));
+            emberek.Add(new Ember("Friderikusz", 17));
+            emberek.Add(new Ember("Gertrúdisz", 37));
+            emberek.Add(new Ember("Herold", 41));
+            emberek.Add(new Ember("Mariann", 20));
 
             string fajlNev = "emberek.txt";
 
@@ -68,8 +74,6 @@ namespace MHB2
             {
                 ember.Kiir();
             }
-
-            Console.ReadKey();
         }
     }
 }
