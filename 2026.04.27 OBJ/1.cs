@@ -1,3 +1,4 @@
+//https://trello.com/invite/sdakpdad/ATTI42686de6a91b79a21f695ea61f966a3d9A46D85F
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -37,7 +38,7 @@ namespace MHB2
             emberek.Add(new Ember("Herold", 41));
             emberek.Add(new Ember("Mariann", 20));
 
-            string fajlNev = "emberek.txt";
+            string fajlNev = "C:\\Users\\Informatika\\Downloads\\emberek.txt";
 
             // Fájlba írás
             using (StreamWriter sw = new StreamWriter(fajlNev))
@@ -74,6 +75,9 @@ namespace MHB2
             {
                 ember.Kiir();
             }
+
+            Console.WriteLine("\Nyomj meg egy gombot a kilépéshez...");
+            Console.ReadKey();
         }
     }
 }
