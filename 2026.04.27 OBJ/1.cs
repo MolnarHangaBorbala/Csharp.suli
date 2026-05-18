@@ -38,7 +38,7 @@ namespace MHB2
             emberek.Add(new Ember("Herold", 41));
             emberek.Add(new Ember("Mariann", 20));
 
-            string fajlNev = "C:\Users\Informatika\Downloads\emberek.txt";
+            string fajlNev = @"C:\Users\Informatika\Downloads\emberek.txt";
 
             // Fájlba írás
             using (StreamWriter sw = new StreamWriter(fajlNev))
